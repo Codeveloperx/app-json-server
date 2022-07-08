@@ -1,0 +1,60 @@
+{
+    "travels": [
+        {
+            "id": 1,
+            "name": "Lalakhal",
+            "description": "to journey from place to place or to a distant place. 2 : to get around : pass from one place to another The news traveled fast.",
+            "price": 2.550,
+            "stars": 4.9,
+            "poster": "https://res.cloudinary.com/academiageek/image/upload/v1656796836/Travel-App/5c59eb9384986f7a27dd6505aed4446b_lh0wn4.png",
+            "moreImg": {
+                "poster1": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/a4dc3f39c5fc40af054aecc195e2508c_nlaqoz.png",
+                "poster2": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/fd69b4e2e0eaae62bd05089b1c7a0664_w5dics.png",
+                "poster3": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/a4dc3f39c5fc40af054aecc195e2508c_nlaqoz.png",
+                "poster4": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/a4dc3f39c5fc40af054aecc195e2508c_nlaqoz.png"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Debtakhum",
+            "description": "to journey from place to place or to a distant place. 2 : to get around : pass from one place to another The news traveled fast.",
+            "price": 2.090,
+            "stars": 3.7,
+            "poster": "https://res.cloudinary.com/academiageek/image/upload/v1656796837/Travel-App/4aa391b1c3cef5a4b20ce2475d085dce_xquf97.png",
+            "moreImg": {
+                "poster1": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/a4dc3f39c5fc40af054aecc195e2508c_nlaqoz.png",
+                "poster2": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/fd69b4e2e0eaae62bd05089b1c7a0664_w5dics.png",
+                "poster3": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/a4dc3f39c5fc40af054aecc195e2508c_nlaqoz.png",
+                "poster4": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/a4dc3f39c5fc40af054aecc195e2508c_nlaqoz.png"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Sundarban",
+            "description": "to journey from place to place or to a distant place. 2 : to get around : pass from one place to another The news traveled fast.",
+            "price": 3.099,
+            "stars": 4.9,
+            "poster": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/a4dc3f39c5fc40af054aecc195e2508c_nlaqoz.png",
+            "moreImg": {
+                "poster1": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/a4dc3f39c5fc40af054aecc195e2508c_nlaqoz.png",
+                "poster2": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/fd69b4e2e0eaae62bd05089b1c7a0664_w5dics.png",
+                "poster3": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/a4dc3f39c5fc40af054aecc195e2508c_nlaqoz.png",
+                "poster4": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/a4dc3f39c5fc40af054aecc195e2508c_nlaqoz.png"
+            }
+        },
+        {
+            "id": 4,
+            "name": "Chimbuk Hill",
+            "description": "to journey from place to place or to a distant place. 2 : to get around : pass from one place to another The news traveled fast.",
+            "price": 1.099,
+            "stars": 5.0,
+            "poster": "https://res.cloudinary.com/academiageek/image/upload/v1656796837/Travel-App/4aa391b1c3cef5a4b20ce2475d085dce_xquf97.png",
+            "moreImg": {
+                "poster1": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/a4dc3f39c5fc40af054aecc195e2508c_nlaqoz.png",
+                "poster2": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/fd69b4e2e0eaae62bd05089b1c7a0664_w5dics.png",
+                "poster3": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/a4dc3f39c5fc40af054aecc195e2508c_nlaqoz.png",
+                "poster4": "https://res.cloudinary.com/academiageek/image/upload/v1656796835/Travel-App/a4dc3f39c5fc40af054aecc195e2508c_nlaqoz.png"
+            }
+        }
+    ]
+}
